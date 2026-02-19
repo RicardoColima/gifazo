@@ -1,7 +1,7 @@
 import { ref, readonly } from 'vue';
 
-const SEARCH_URL = '/api/search';
-const TRENDING_URL = '/api/trending';
+const SEARCH_URL = 'https://g.tenor.com/v1/search';
+const TRENDING_URL = 'https://g.tenor.com/v1/trending';
 const API_KEY = 'LIVDSRZULELA';
 
 export function useTenor() {
