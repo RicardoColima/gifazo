@@ -1,3 +1,5 @@
+# Enlace: https://ricardocolima.github.io/gifazo/
+
 # Gifazo
 
 Una aplicación web para buscar y descubrir GIFs increíbles. Construida con Vue 3 y Tailwind CSS.
